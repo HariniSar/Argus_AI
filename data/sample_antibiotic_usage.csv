@@ -7,5 +7,5 @@ date,hospital_id,antibiotic,doses_prescribed
 2026-01-02,HOSP001,ciprofloxacin,48
 2026-01-02,HOSP002,ceftriaxone,85
 2026-01-02,HOSP002,ciprofloxacin,52
-2026-01-20,HOSP001,ceftriaxone,20  # anomaly for demonstration
+2026-01-20,HOSP001,ceftriaxone,20  #anomaly for demonstration
 2026-01-20,HOSP001,ciprofloxacin,50
